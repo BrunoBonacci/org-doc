@@ -1,3 +1,4 @@
+# -- mode: org; --
 # ------------------------------------------------------------------------------
 #+LANGUAGE:  en
 #+STARTUP:   content showstars indent inlineimages showblocks latexpreview
