@@ -1,0 +1,3 @@
+* org-doc
+
+This repo just contains a bunch of common files for ~org-mode~ documentation.
