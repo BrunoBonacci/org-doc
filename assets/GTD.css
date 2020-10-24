@@ -271,6 +271,7 @@ pre.src-emacs-lisp::before { content: "elisp"; }
 pre.src-org::before { content: "org"; }
 pre.src-sh::before { content: "sh"; }
 pre.src-bash::before { content: "bash"; }
+pre.src-clojure::before { content: "clojure"; }
 
 pre {
     color: #00008b;
