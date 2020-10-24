@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------------
 #+LANGUAGE:  en
 #+STARTUP:   content showstars indent inlineimages showblocks latexpreview
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./assets/GTD.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/BrunoBonacci/org-doc/master/assets/GTD.css" />
 #+OPTIONS:   toc:2 html-scripts:nil num:nil html-postamble:nil html-style:nil ^:nil
 # ------------------------------------------------------------------------------
