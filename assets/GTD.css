@@ -250,7 +250,7 @@ h3::before {
 
 
 code {
-    background-color: #f9f9f9;
+    background-color: #eeeeee;
     font-family: "Roboto Mono", sans-serif;
     font-weight: 400;
 }
@@ -272,10 +272,11 @@ pre.src-org::before { content: "org"; }
 pre.src-sh::before { content: "sh"; }
 pre.src-bash::before { content: "bash"; }
 pre.src-clojure::before { content: "clojure"; }
+pre.src-java::before { content: "java"; }
 
 pre {
     color: #00008b;
-    background-color: #fbfbfb;
+    background-color: #f8f8f8;
     overflow: auto;
     margin: 0em;
     padding: 0.25em;
