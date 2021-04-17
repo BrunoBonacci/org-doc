@@ -273,6 +273,7 @@ pre.src-sh::before { content: "sh"; }
 pre.src-bash::before { content: "bash"; }
 pre.src-clojure::before { content: "clojure"; }
 pre.src-java::before { content: "java"; }
+pre.src-python::before { content: "python"; }
 
 pre {
     color: #00008b;
