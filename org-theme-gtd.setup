@@ -9,3 +9,11 @@
 #+HTML_HEAD: <script>hljs.highlightAll();</script>
 #+OPTIONS:   toc:2 html-scripts:nil num:nil html-postamble:nil html-style:nil ^:nil
 # ------------------------------------------------------------------------------
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,12pt,margin=2.4cm]
+#+LATEX_HEADER: \usepackage[hidelinks]{hyperref}
+#+LATEX_HEADER: \usepackage[sfdefault,light]{roboto}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \onehalfspacing
+#+LATEX_HEADER: \hypersetup{ colorlinks = true, urlcolor = blue, linkcolor = blue, citecolor = red }
+# ------------------------------------------------------------------------------
