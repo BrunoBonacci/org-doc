@@ -16,4 +16,5 @@
 #+LATEX_HEADER: \usepackage{setspace}
 #+LATEX_HEADER: \onehalfspacing
 #+LATEX_HEADER: \hypersetup{ colorlinks = true, urlcolor = blue, linkcolor = blue, citecolor = red }
+#+LATEX_HEADER: \usepackage{minted}
 # ------------------------------------------------------------------------------
