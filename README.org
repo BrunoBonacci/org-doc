@@ -5,7 +5,7 @@ This repo just contains a bunch of common files for ~org-mode~ documentation.
 To use the GTD theme with syntax highlighting for html export add
 
 #+begin_src org
-  #+SETUPFILE: https://rawcdn.githack.com/BrunoBonacci/org-doc/master/org-theme-gtd.setup
+  #+SETUPFILE: https://cdn.jsdelivr.net/gh/BrunoBonacci/org-doc/assets/GTD.css
 #+end_src
 
 
